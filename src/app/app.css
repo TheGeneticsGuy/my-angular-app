@@ -1,0 +1,13 @@
+/* h3 {
+    color: darkblue
+} */
+
+h4 {
+    font-size: 25px;
+    font-weight: 700;
+    color: darkblue;
+}
+
+.white-text {
+    color: white;
+}
